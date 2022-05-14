@@ -13,4 +13,4 @@ You can install Selenium via conda (or pip): `$ conda install selenium`
 
 
 ## License:
-Copyright © 2022 Dee Reddy. BSD-2 license.
+Copyright © 2022 Deepankara Reddy. BSD-2 license.
